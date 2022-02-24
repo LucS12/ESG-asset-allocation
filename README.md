@@ -4,9 +4,9 @@ These implementations will attempt to use quantifiable ESG metrics, such as firm
 
 
 ## Files Included:
-1. **5Methods_esg_allocation.ipynb**: notebook file with a report written around the code discussing the topics included in detail along with each step of the implementation. 
+- **5Methods_esg_allocation.ipynb**: notebook file with a report written around the code discussing the topics included in detail along with each step of the implementation. 
 
-2. **5Methods_esg_allocation.py**: python file with the raw code only from the report above.
+- **5Methods_esg_allocation.py**: python file with the raw code only from the report above.
 
-3. **scores.csv**: csv file containing sample ESG scores for S&P500 names used in the files above.
+- **scores.csv**: csv file containing sample ESG scores for S&P500 names used in the files above.
 
